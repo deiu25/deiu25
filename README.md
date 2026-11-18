@@ -18,11 +18,9 @@ The source of these projects is private. The public repositories are older work.
 | Repository | What it is |
 |---|---|
 | [nextjs-15-devflow](https://github.com/deiu25/nextjs-15-devflow) | Developer Q&A platform: Next.js 15, TypeScript, MongoDB, NextAuth |
-| [live-show-code-comps](https://github.com/deiu25/live-show-code-comps) | MERN platform for sharing UI components, with a live HTML/CSS/JS editor |
+| [YC-Directory](https://github.com/deiu25/YC-Directory) | Startup pitch directory: Next.js 15, Sanity CMS, Sentry |
 | [media-render](https://github.com/deiu25/media-render) | Media library: React client, FastAPI and SQLAlchemy server |
 | [pdf-rename-2](https://github.com/deiu25/pdf-rename-2) | Renames PDFs in bulk by the serial number on the first page: Flask, React |
-| [YC-Directory](https://github.com/deiu25/YC-Directory) | Startup pitch directory: Next.js 15, Sanity CMS, Sentry |
-| [Travel-Blog-App-BACKEND](https://github.com/deiu25/Travel-Blog-App-BACKEND) | REST API for a travel blog: Express, MongoDB, JWT, Cloudinary |
 
 ### Stack
 
