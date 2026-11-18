@@ -11,16 +11,7 @@ Full-stack developer in Ploiesti, Romania. For 3+ years I have built and maintai
 - **VantagePrompt.** A platform for optimizing and tracking AI prompts. Laravel 12, React, Inertia.js.
 - **PHANTOM//LINK.** End-to-end encrypted messages that delete themselves on the first read or on a timer. The server holds only ciphertext, in memory. Bun, Hono, Svelte 5.
 
-The source of these projects is private. The public repositories are older work.
-
-### Public repositories
-
-| Repository | What it is |
-|---|---|
-| [nextjs-15-devflow](https://github.com/deiu25/nextjs-15-devflow) | Developer Q&A platform: Next.js 15, TypeScript, MongoDB, NextAuth |
-| [YC-Directory](https://github.com/deiu25/YC-Directory) | Startup pitch directory: Next.js 15, Sanity CMS, Sentry |
-| [media-render](https://github.com/deiu25/media-render) | Media library: React client, FastAPI and SQLAlchemy server |
-| [pdf-rename-2](https://github.com/deiu25/pdf-rename-2) | Renames PDFs in bulk by the serial number on the first page: Flask, React |
+The source of these projects is private.
 
 ### Stack
 
