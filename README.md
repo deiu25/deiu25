@@ -8,7 +8,7 @@ Full-stack developer in Ploiesti, Romania. For 3+ years I have built and maintai
 - **[BaseTech](https://www.basetech.ro).** Software infrastructure and automation: ERP systems, AI integrations, SaaS platforms. Next.js, TypeScript, MongoDB.
 - **[SkillCellar](https://skillcellar.com).** A curated library of Claude Code skills with live GitHub stats. Next.js 16, Tailwind CSS v4, Drizzle, PostgreSQL, Stripe.
 - **[andrei-design.ro](https://andrei-design.ro).** The site of my web studio. Static Next.js 16 with a scroll-driven canvas film on the homepage.
-- **VantagePrompt.** A platform for optimizing and tracking AI prompts. Laravel 12, React, Inertia.js.
+- **[VantagePrompt](https://vantageprompt.com).** A platform for optimizing and tracking AI prompts. Laravel 12, React, Inertia.js.
 - **PHANTOM//LINK.** End-to-end encrypted messages that delete themselves on the first read or on a timer. The server holds only ciphertext, in memory. Bun, Hono, Svelte 5.
 
 The source of these projects is private.
